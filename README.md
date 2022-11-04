@@ -14,7 +14,6 @@ improvement. Please look into my repositories. Perhaps you will find something u
 ## Connect with me:
 [![author](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/Relayx)
 [![author](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=RelayxF@gmail.com)
-[![author](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Relayx)
 [![author](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://relayx.itch.io/)
 
 ---
